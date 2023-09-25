@@ -2,33 +2,12 @@
 Full-Stack Ecommerce with Admin Dashboard & stripe Payment Gateway.
 
 ## Demo
-[This application is deployed on Render Please check it out : 😀 smile](https://hateybazarey.onrender.com) 
+[This application is deployed on Render Please check it out](https://hateybazarey.onrender.com) 
 Website load may take some time, so please wait.
 
 ## 🖥️ Tech Stack
-**Frontend:**
 
-![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;
-![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-
-
-**Backend:**
-
-![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![jwt](	https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
-
-**Payment Gateway:**
-
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-
-**Deployed On:**
-
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,mongodb,nodejs,express,bootstrap,stripe,render)](https://skillicons.dev)
 
 **Image Management:** [Cloudinary](https://cloudinary.com/)
 **Mail Service:** [mailtrap](https://mailtrap.io/)
@@ -42,7 +21,7 @@ Website load may take some time, so please wait.
 - Login/Signup User Account
 - Update Profile/Password User Account
 - Reset Password Mail using Mailtrap
-- User can view Single Product
+- User can view a Single Product
 - Cart Add/Remove Items | Update Quantities
 - Products Pagination (Default 8 Products Per Page)
 - Product Search
