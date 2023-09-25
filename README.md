@@ -3,11 +3,12 @@ Full-Stack E-commerce with Admin Dashboard & Stripe Payment Gateway.
 
 ## Demo
   Live Link: https://hateybazarey.onrender.com
+  
 Website load may take some time, so please wait.
 
 ## 🖥️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,mongodb,nodejs,express,bootstrap,stripe,render)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,mongodb,nodejs,express,vercel,stripe,render)](https://skillicons.dev)
 
 ## 🚀 Features
 - custom title on each page
