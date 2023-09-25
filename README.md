@@ -1,19 +1,13 @@
 # Hatey-Bazarey-MERN
-Full-Stack Ecommerce with Admin Dashboard & stripe Payment Gateway.
+Full-Stack E-commerce with Admin Dashboard & Stripe Payment Gateway.
 
 ## Demo
-[This application is deployed on Render Please check it out](https://hateybazarey.onrender.com) 
+  Live Link: https://hateybazarey.onrender.com
 Website load may take some time, so please wait.
 
 ## 🖥️ Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,mongodb,nodejs,express,bootstrap,stripe,render)](https://skillicons.dev)
-
-**Image Management:** [Cloudinary](https://cloudinary.com/)
-**Mail Service:** [mailtrap](https://mailtrap.io/)
-
-
-
 
 ## 🚀 Features
 - custom title on each page
@@ -27,9 +21,9 @@ Website load may take some time, so please wait.
 - Product Search
 - Product Filters Based on Category, Ratings
 - Shipping Info in Session Storage
-- Before payment user passes 3 steps Shipping Address | Confirm Order | Card Details
+- Before payment, the user passes 3 steps Shipping Address | Confirm Order | Card Details
 - My Orders (With All Filters)
-- Order Details of All Ordered Item
+- Order Details of All Ordered Items
 - Review Products User Account
 - Admin: Dashboard access to only admin roles
 - Admin: Add/Update Products
@@ -38,7 +32,7 @@ Website load may take some time, so please wait.
 
 ## Database Seed
 
-* The seed command will put products in database
+* The seed command will put products in the database
 * For more information, see code [here](Backend/utils/seeder.js)
 
 ```
@@ -57,3 +51,11 @@ npm run seed
     <td><img src="https://user-images.githubusercontent.com/65649115/221517641-e93cf24f-9dda-4fe7-87fc-53054aeb17d2.png" /></td>
   </tr>
 </table>
+
+## Let's Connect
+  Thank you for using the Website! If you have any questions, encounter issues, or want to provide feedback, please don't hesitate to contact me. 
+  
+  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayushi-gupta-b98676236/)
+  [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_arushi_gupta/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/Ayushi0516)  
+
